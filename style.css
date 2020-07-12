@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: center;
+    margin-top: 250px;
+    }
+
+#round_field {
+    border-radius: 25px;
+    border-color: #d4d4d4;
+    padding: 20px;
+    width: 400px;
+    height: 15px;
+    }
+
+input {
+    order-color: #d4d4d4;
+    }
